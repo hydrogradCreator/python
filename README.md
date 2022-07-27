@@ -1,2 +1,2 @@
 # python
-VPL's python - Disciplina Álgebra Linear Computacional 
+EP's python - Disciplina Álgebra Linear Computacional 
